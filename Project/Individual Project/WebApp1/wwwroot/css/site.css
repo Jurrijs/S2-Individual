@@ -1,0 +1,58 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+
+
+body, ul, li {
+    margin: 0;
+    padding: 0;
+    list-style:  none;
+}
+
+.cart-container {
+    display: flex;
+    justify-content: center; /* center the lists */
+    align-items: flex-start; /* length increases according to the items */
+    padding: 20px; /* padding at the top */
+}
+
+.cart-left {
+    margin-right: 20px; /* spacing between the lists */
+}
+.product-list {
+    background-color: #f9f9f9;
+    padding: 10px;
+}
+.product {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; /* spacing between products */
+}
+.product img {
+    /* dont know yet */
+    margin-right: 10px; /* spacing between image and text */
+}
+
+.cart-right {
+    background-color: #e9e9e9;
+    padding: 10px;
+}
+.product-summary .product {
+    margin-bottom: 10px; /* spacing between products */
+}

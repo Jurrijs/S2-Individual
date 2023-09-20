@@ -1,0 +1,15 @@
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\bin\Debug\net6.0\Dal1.deps.json
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\bin\Debug\net6.0\Dal1.dll
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\bin\Debug\net6.0\Dal1.pdb
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\bin\Debug\net6.0\Logic1.dll
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\bin\Debug\net6.0\Logic1.pdb
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\obj\Debug\net6.0\Dal1.csproj.AssemblyReference.cache
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\obj\Debug\net6.0\Dal1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\obj\Debug\net6.0\Dal1.AssemblyInfoInputs.cache
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\obj\Debug\net6.0\Dal1.AssemblyInfo.cs
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\obj\Debug\net6.0\Dal1.csproj.CoreCompileInputs.cache
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\obj\Debug\net6.0\Dal1.csproj.CopyComplete
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\obj\Debug\net6.0\Dal1.dll
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\obj\Debug\net6.0\refint\Dal1.dll
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\obj\Debug\net6.0\Dal1.pdb
+C:\Users\jurri\Desktop\school\Gitrepo\S2-v2\Individual Project\Individual Project\Dal1\obj\Debug\net6.0\ref\Dal1.dll
